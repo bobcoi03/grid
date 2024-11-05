@@ -16,7 +16,7 @@ setup(
         "pydantic>=2.0.0",
         "requests"
     ],
-    author="Your Name",
+    author="Minh",
     author_email="minh@everythingcompany.co",
     description="A package for automated research data collection using LLMs and Web Search API",
     long_description=open("README.md").read(),
