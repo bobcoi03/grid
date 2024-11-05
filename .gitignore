@@ -1,0 +1,15 @@
+__pycache__/
+*.env
+*.pyc
+*.egg-info/
+dist/
+build/
+venv/
+env/
+*.log
+*.tmp
+*.pid
+*.seed
+*.pid.lock
+*.csv
+

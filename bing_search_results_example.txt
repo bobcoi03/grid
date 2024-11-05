@@ -1,0 +1,323 @@
+Headers:
+{'Cache-Control': 'private, max-age=0', 'Transfer-Encoding': 'chunked', 'Content-Type': 'application/json; charset=utf-8', 'Content-Encoding': 'gzip', 'Expires': 'Thu, 31 Oct 2024 19:16:42 GMT', 'Vary': 'Accept-Encoding', 'P3P': 'CP="NON UNI COM NAV STA LOC CURa DEVa PSAa PSDa OUR IND"', 'X-EventID': '6723d7d6fd3a4f9580ef681988c31ae0', 'UserAgentReductionOptOut': 'A7kgTC5xdZ2WIVGZEfb1hUoNuvjzOZX3VIV/BA6C18kQOOF50Q0D3oWoAm49k3BQImkujKILc7JmPysWk3CSjwUAAACMeyJvcmlnaW4iOiJodHRwczovL3d3dy5iaW5nLmNvbTo0NDMiLCJmZWF0dXJlIjoiU2VuZEZ1bGxVc2VyQWdlbnRBZnRlclJlZHVjdGlvbiIsImV4cGlyeSI6MTY4NDg4NjM5OSwiaXNTdWJkb21haW4iOnRydWUsImlzVGhpcmRQYXJ0eSI6dHJ1ZX0=', 'Content-Security-Policy': "script-src https: 'strict-dynamic' 'report-sample' 'wasm-unsafe-eval' 'nonce-HcCbLj6OI6xRJtoiSqZzJqVe+AlgFiw/uS3HzGXE4fc='; base-uri 'self';", 'BingAPIs-TraceId': '6723d7d6fd3a4f9580ef681988c31ae0', 'BingAPIs-SessionId': '5A627428A3AF438DBDDDB5E2141407CB', 'X-MSEdge-ClientID': '0D6DB1E44117634C04F4A4CD40406203', 'X-MSAPI-UserState': '2348', 'BingAPIs-Market': 'en-US', 'BingAPIs-RGUID': '1336177019fb4282a1b7396ea7ce18f3', 'X-Search-ResponseInfo': 'InternalResponseTime=468,MSDatacenter=DUBE01', 'X-Cache': 'CONFIG_NOCACHE', 'Accept-CH': 'Sec-CH-UA-Arch,Sec-CH-UA-Bitness,Sec-CH-UA-Full-Version,Sec-CH-UA-Full-Version-List,Sec-CH-UA-Mobile,Sec-CH-UA-Model,Sec-CH-UA-Platform,Sec-CH-UA-Platform-Version', 'X-MSEdge-Ref': 'Ref A: 78904736ED494C449A0CCA6C951084F0 Ref B: AMS04EDGE1111 Ref C: 2024-10-31T19:17:42Z', 'apim-request-id': 'eb97b699-4987-4609-a22f-bd82ef7e5561', 'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload', 'x-content-type-options': 'nosniff', 'CSP-Billing-Usage': 'CognitiveServices.BingSearchV7.Transaction=1', 'Date': 'Thu, 31 Oct 2024 19:17:43 GMT'}
+
+JSON Response:
+{
+  "_type": "SearchResponse",
+  "queryContext": {
+    "originalQuery": "Top 100 startups in London UK with young founders"
+  },
+  "webPages": {
+    "webSearchUrl": "https://www.bing.com/search?q=Top+100+startups+in+London+UK+with+young+founders",
+    "totalEstimatedMatches": 281000,
+    "value": [
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0",
+        "name": "69 Best Startups in London to Watch in 2024 - Seedtable",
+        "url": "https://www.seedtable.com/best-startups-in-london",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.seedtable.com/best-startups-in-london",
+        "snippet": "There are 2238 start-ups . with an aggregate funding of $59.1B. The average funding per company in this subset is $26.4M. The list encompasses 498 founders. 1977 executives. It includes data on 2475 professionals within these filtered companies. Last update to the database: Oct 29, 2024. See changelog.",
+        "dateLastCrawled": "2024-10-29T19:16:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Top+100+startups+in+London+UK+with+young+founders&d=4797680803788729&mkt=en-US&setlang=en-US&w=MSVZnfiNQ5WFu_pvq4hlM_xkJSs8XjVl",
+        "language": "en",
+        "isNavigational": true,
+        "noCache": false,
+        "siteName": "Seedtable"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1",
+        "name": "2024 Startups 100: UK\u2019s Best New Startups Index",
+        "url": "https://startups.co.uk/startups-100/2024/list-in-full/",
+        "datePublished": "2024-01-08T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 8, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://startups.co.uk/startups-100/2024/list-in-full",
+        "snippet": "Welcome to the 2024 edition of the Startups 100, the UK\u2019s longest-running index of new businesses. Each year, we unveil the pioneering UK startups that will be sparking change across every sector. Following an era of permacrisis, the 16th Startups 100 Index showcases a resilient new business community. Together, these fledgling companies are ...",
+        "dateLastCrawled": "2024-10-30T18:07:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Top+100+startups+in+London+UK+with+young+founders&d=4547348632699006&mkt=en-US&setlang=en-US&w=oHeVQS6Hyl8T5QSYClbTH4M-i_zqZsBC",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Startups.co.uk"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2",
+        "name": "Top 42 London Startups \u2014 Newly Funded & Hiring",
+        "url": "https://topstartups.io/?hq_location=london",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://topstartups.io/?hq_location=london",
+        "snippet": "We invest in Europe's top technical individuals and support them to build world-class startups in London. Venture Capital Communities. Quick facts: \ud83d\udccdHQ: London, England, United Kingdom 501-1000 employees Founded: 2011. Funding: Founders Fund $158M Series C in 2022 $560M valuation. Take action: See who works here \ud83e\udd1d Read reviews \u2b50",
+        "dateLastCrawled": "2024-10-30T14:36:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Top+100+startups+in+London+UK+with+young+founders&d=4974577616552015&mkt=en-US&setlang=en-US&w=ROGxBsTn2n7WLQG27CrSCHo7-uVRm1Sm",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Top Startups"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3",
+        "name": "London\u2019s emerging innovators: 10 early stage startups you should be ...",
+        "url": "https://www.eu-startups.com/2024/10/londons-emerging-innovators-10-early-stage-startups-you-should-be-keeping-an-eye-on/",
+        "datePublished": "2024-10-29T00:00:00.0000000",
+        "datePublishedFreshnessText": "2 days ago",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.eu-startups.com/2024/10/londons-emerging-innovators-10-early-stage...",
+        "snippet": "Young startups find opportunities to scale and innovate in a city where access to funding, mentorship, and a global customer base is highly facilitated. In this listicle, we explore some of London\u2019s most promising early-stage startups founded between this year and last, each bringing a fresh perspective to their respective fields.",
+        "dateLastCrawled": "2024-10-30T14:17:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Top+100+startups+in+London+UK+with+young+founders&d=1673543489946&mkt=en-US&setlang=en-US&w=aemY9AZuSckJb15p2BUx6gNA4RqNYcwe",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "EU-Startups"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4",
+        "name": "The Hottest Startups in London in 2024 - WIRED",
+        "url": "https://www.wired.com/story/the-hottest-startups-in-london-in-2024/",
+        "datePublished": "2024-10-14T00:00:00.0000000",
+        "datePublishedDisplayText": "Oct 14, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.wired.com/story/the-hottest-startups-in-london-in-2024",
+        "snippet": "Founded in 2021 by physicist Stefano Buono, the startup has already raised more than \u20ac400 million (\u00a3338.8 million) and employs more than 750 people located in fifteen offices across the UK ...",
+        "dateLastCrawled": "2024-10-30T06:40:00.0000000Z",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": true,
+        "siteName": "WIRED"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5",
+        "name": "25 UK Startups to Watch in 2024: Wayve, Flo, Sibstar - Bloomberg.com",
+        "url": "https://www.bloomberg.com/features/2024-uk-startups-to-watch/",
+        "datePublished": "2024-10-22T04:03:21.0000000",
+        "datePublishedDisplayText": "Oct 22, 2024",
+        "video": {
+          "webSearchUrl": "https://www.bing.com/videos/search?q=Top%20100%20startups%20in%20London%20UK%20with%20young%20founders&view=detail&mid=CE219C8761592DF365FECE219C8761592DF365FE",
+          "thumbnailUrl": "https://www.bing.com/th?id=OVP.szziUDWM39IkkWcf_Hs7IgIIER&w=128&h=72&c=4&rs=1&pid=6.1",
+          "duration": "",
+          "sourceWidth": 128,
+          "sourceHeight": 72,
+          "videoId": "CE219C8761592DF365FECE219C8761592DF365FE"
+        },
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.bloomberg.com/features/2024-uk-startups-to-watch",
+        "snippet": "These Are the Top 25 UK Startups to Watch for 2024. ... a London-based autonomous driving company that\u2019s on the list, attracted $1 billion in a round that included SoftBank, Nvidia and Microsoft ...",
+        "dateLastCrawled": "2024-10-31T01:23:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Top+100+startups+in+London+UK+with+young+founders&d=4687682390082120&mkt=en-US&setlang=en-US&w=qu-ceRz09hdTtnKZYMYmv38EDZCtgNlk",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Bloomberg"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6",
+        "name": "Next Steps: Britain\u2019s Top 100 Young Founders Have Built ... - Forbes",
+        "url": "https://www.forbes.com/sites/trevorclawson/2022/10/21/next-steps-britains-top-100-young-founders-have-built-cheetahs-gazelles-and-unicorns-but-will-any-attain-big-tech-status/",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.X1kQRnhPK9YzzCaXclCyVgHaFj&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2022-10-21T14:51:00.0000000",
+        "datePublishedDisplayText": "Oct 21, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.forbes.com/sites/trevorclawson/2022/10/21/next-steps-britains-top-100...",
+        "snippet": "Perhaps not surprisingly the largest number of the top 100 startups are based in London, with the English Midlands in second place. Fashion and food and drink are the most represented sectors. But ...",
+        "dateLastCrawled": "2024-10-26T07:11:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.X1kQRnhPK9YzzCaXclCyVgHaFj&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 355,
+          "imageId": "OIP.X1kQRnhPK9YzzCaXclCyVgHaFj"
+        },
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Top+100+startups+in+London+UK+with+young+founders&d=4946355396625690&mkt=en-US&setlang=en-US&w=ylv4HwFtSOrJV5Pj_lXfNmH2SDBoVxku",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Forbes"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7",
+        "name": "Top 300 Startups in London in 2024 - Failory",
+        "url": "https://www.failory.com/startups/london",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.RtVfaj-TyBZA3zVhCQlKzgHaEO&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2024-02-14T00:00:00.0000000",
+        "datePublishedDisplayText": "Feb 14, 2024",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.failory.com/startups/london",
+        "snippet": "Details of the startup: Number of employees: 51-100; Funding: $18,283,042; You can find their website here. \u200d 258) Billon Group. Billon Group is a fintech firm that offers a distributed ledger technology (DLT) system for accounts, transactions, and aims at bank accounts. Details of the startup: Number of employees: 51-100; Funding: $17,888,462",
+        "dateLastCrawled": "2024-10-23T00:28:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.RtVfaj-TyBZA3zVhCQlKzgHaEO&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 270,
+          "imageId": "OIP.RtVfaj-TyBZA3zVhCQlKzgHaEO"
+        },
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Top+100+startups+in+London+UK+with+young+founders&d=4980775257378610&mkt=en-US&setlang=en-US&w=vU576K1C7Y3Y_osilQxefIXB4hHmnBPZ",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "Failory"
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8",
+        "name": "London\u2019s 17 Fastest Growing Young Adults Startups",
+        "url": "https://beststartup.london/londons-17-fastest-growing-young-adults-startups/",
+        "datePublished": "2022-08-03T00:00:00.0000000",
+        "datePublishedDisplayText": "Aug 3, 2022",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://beststartup.london/londons-17-fastest-growing-young-adults-startups",
+        "snippet": "At Best Startup London we track over 100,000 London based startups and over 500,000 people who hold key positions in these companies. We use this directory of startups to highlight top employees, founders and organisations we think deserve more appreciation than they are currently getting. We\u2019ve ranked the top 17 Young Adults companies in London.",
+        "dateLastCrawled": "2024-10-17T07:57:00.0000000Z",
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Top+100+startups+in+London+UK+with+young+founders&d=4820761962631320&mkt=en-US&setlang=en-US&w=rSou7VVERGaQOrqf5MR4oy4p5j-pl7sH",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false
+      },
+      {
+        "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9",
+        "name": "Biggest winners, brightest futures: 10 young tech startups from UK ...",
+        "url": "https://www.uktech.news/news/10-young-tech-startups-from-uk-20210107",
+        "thumbnailUrl": "https://www.bing.com/th?id=OIP.eWplxa9qTsqcbuh9BUesYwHaEh&w=80&h=80&c=1&pid=5.1",
+        "datePublished": "2021-01-07T00:00:00.0000000",
+        "datePublishedDisplayText": "Jan 7, 2021",
+        "isFamilyFriendly": true,
+        "displayUrl": "https://www.uktech.news/news/10-young-tech-startups-from-uk-20210107",
+        "snippet": "Many startups that stepped into the gap of legacy companies have been scaleups: fast-growth enterprises on an upwards trajectory. Think of the likes of Cazoo, Monzo and Deliveroo. But to launch before the global pandemic and then sustain through it successfully is a very different game. While the question also remains, will they continue to ...",
+        "dateLastCrawled": "2024-10-29T23:59:00.0000000Z",
+        "primaryImageOfPage": {
+          "thumbnailUrl": "https://www.bing.com/th?id=OIP.eWplxa9qTsqcbuh9BUesYwHaEh&w=80&h=80&c=1&pid=5.1",
+          "width": 80,
+          "height": 80,
+          "sourceWidth": 474,
+          "sourceHeight": 289,
+          "imageId": "OIP.eWplxa9qTsqcbuh9BUesYwHaEh"
+        },
+        "cachedPageUrl": "http://cc.bingj.com/cache.aspx?q=Top+100+startups+in+London+UK+with+young+founders&d=4954906670858798&mkt=en-US&setlang=en-US&w=qyoOvfF7pP_NO3pTnw93UZSafL2547jl",
+        "language": "en",
+        "isNavigational": false,
+        "noCache": false,
+        "siteName": "UKTN | UK Tech News"
+      }
+    ],
+    "someResultsRemoved": true
+  },
+  "relatedSearches": {
+    "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches",
+    "value": [
+      {
+        "text": "startup companies in london",
+        "displayText": "startup companies in london",
+        "webSearchUrl": "https://www.bing.com/search?q=startup+companies+in+london"
+      },
+      {
+        "text": "top startups in london",
+        "displayText": "top startups in london",
+        "webSearchUrl": "https://www.bing.com/search?q=top+startups+in+london"
+      },
+      {
+        "text": "top 100 uk startups",
+        "displayText": "top 100 uk startups",
+        "webSearchUrl": "https://www.bing.com/search?q=top+100+uk+startups"
+      },
+      {
+        "text": "2024 uk startups 100",
+        "displayText": "2024 uk startups 100",
+        "webSearchUrl": "https://www.bing.com/search?q=2024+uk+startups+100"
+      },
+      {
+        "text": "top 2024 startups uk",
+        "displayText": "top 2024 startups uk",
+        "webSearchUrl": "https://www.bing.com/search?q=top+2024+startups+uk"
+      },
+      {
+        "text": "top 100 startups 2024",
+        "displayText": "top 100 startups 2024",
+        "webSearchUrl": "https://www.bing.com/search?q=top+100+startups+2024"
+      }
+    ]
+  },
+  "rankingResponse": {
+    "mainline": {
+      "items": [
+        {
+          "answerType": "WebPages",
+          "resultIndex": 0,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.0"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 1,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.1"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 2,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.2"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 3,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.3"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 4,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.4"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 5,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.5"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 6,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.6"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 7,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.7"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 8,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.8"
+          }
+        },
+        {
+          "answerType": "WebPages",
+          "resultIndex": 9,
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#WebPages.9"
+          }
+        },
+        {
+          "answerType": "RelatedSearches",
+          "value": {
+            "id": "https://api.bing.microsoft.com/api/v7/#RelatedSearches"
+          }
+        }
+      ]
+    }
+  }
+}
